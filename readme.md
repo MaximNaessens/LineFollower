@@ -19,7 +19,7 @@ sensors: QTR-8A
 <br />
 batteries: 18650 batterij
 <br />
-wireless communication: HC-O5
+wireless communication: HC-05
 <br />
 distance sensor - motors:
 <br />
