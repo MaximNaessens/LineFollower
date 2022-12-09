@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: STM32F103C8T6
 <br />
-motors: 
+motors: 50:1 micro metal gearmotor HP 6V
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 18650 batterij
 <br />
-wireless communication:
+wireless communication: HC-O5
 <br />
 distance sensor - motors:
 <br />
-weight:
+weight: 
 <br />
 speed: 
 <br />
