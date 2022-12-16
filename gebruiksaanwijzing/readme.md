@@ -23,13 +23,14 @@ calibrate white  (dit is voor de kleur wit te kalibreren.
 
 ### kalibratie (bij elk commando dat je stuurt zou je een antwoord moeten krijgen van de serial bluetooth terminal.)
 uitleg kalibratie
+
 Calibrate black: dit is voor het instellen van de kleur zwart. Hou de sensor van de auto boven een zwart oppervlak en type 'Calibrate black' en verstuur. Je zou een antwoord moeten krijgen.)
 Calibrate white: dit is voor het instellen van de kleur wit. Hou de sensor van de auto boven een wit oppervlak en type 'Calibrate white' en verstuur. Je zou een antwoord moeten krijgen.
 Set power: dit is voor het kiezen hoe snel vooruit u auto rijdt. Valt de auto stil dan verhoog je deze waarde.
 Set diff: dit is voor de snelheid in de bochten. Versnelt de auto in de bochten dan verlaag je deze waarde. Vertraagt de auto in de bochten dan verhoog je deze waarde.
 Set kp: Dit is voor hoe snel de robot bijstuurt. Stuurt de robot niet snel genoeg bij dan verhoog je deze waarde. Als de robot over de zwarte lijn waggelt dan verlaag je deze waarde.
-Set ki: 
-Set kd: 
+Set ki: (integrerend regelen) hierbij gaan we kijken hoe lang de fout zich blijft voordoen. Hoe langer de fout zich voordoet, hoe sterker we gaan bijregelen.
+Set kd: ( differentiërend regelen) hierbij gaan we kijken hoe snel de fout veranderd is. Is het verschil met de fout uit de vorige cyclus groot, dan gaan we sterk bijsturen. Is het verschil eerder klein dan sturen we minder bij.
 
 ### settings
 De robot rijdt stabiel met volgende parameters:Power 70, Diff 0,3, Kp 8, Ki 0, Kd 0 en cycle 300.
