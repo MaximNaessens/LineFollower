@@ -6,6 +6,7 @@ Ik heb gekozen voor oplaadbare batterijen (18650) aangezien je er anders heel ve
 ### draadloze communicatie HC-05
 #### verbinding maken
 (Werkt enkel met android of windows)
+
 De robot met uw gsm verbinden doe je als volgt: ga naar instellingen en bij bluetooth zou je uw HC-05 module moeten zien staan. klik op de HC-05 module, normaal gezien moet je kunnen verbinden. Ga naar de serial bluetooth terminal op uw smarthphone en bij devices zou normaal de HC-05 er tussen moeten staan. Als je erop klikt zou je normaal naar het hoofdscherm gebracht worden met de melding 'connecting to HC-05' met daarop volgend 'connected, linefollower Maxim, ready to race'. Rechtsboven is een symbool van een gordel die dicht is, met deze knop kan je ook verbinding maken. Eens je verbonden bent kan je de commando's ingeven.
 
 #### commando's (bij elk commando dat je stuurt zou je een antwoord moeten krijgen van de serial bluetooth terminal.)
