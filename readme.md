@@ -3,7 +3,8 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[picture]
+![foto auto](https://user-images.githubusercontent.com/115005597/209330908-e6018264-373f-4fd1-a0e7-01fe11511791.jpg)
+
 <br />
 <br />
   
@@ -17,13 +18,14 @@ h-bridge: DRV8833
 <br />
 sensors: QTR-8A
 <br />
-batteries: 18650 batterie x2
+batteries: 18650 batterij x2
 <br />
 wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 9 cm
 <br />
-weight: 
+weight: zonder batterijen: 181g
+weight: met batterijen: 270g
 <br />
-speed: 
+speed: 0,412 m/s
 <br />
