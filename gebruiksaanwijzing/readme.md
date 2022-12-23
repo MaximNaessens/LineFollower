@@ -12,15 +12,15 @@ De robot met uw gsm verbinden doe je als volgt: ga naar instellingen en bij blue
 #### commando's (bij elk commando dat je stuurt zou je een antwoord moeten krijgen van de serial bluetooth terminal.)
 debug [on/off]  
 start: type 'Start' op u gsm en de auto zal starten met rijden.
-stop: type opnieuw 'Start' op u gsm en de auto zal stopppen met rijden.
+stop: type opnieuw 'Start' op u gsm en de auto zal stoppen met rijden.
 set cycle [µs]  300
 set power [0..255] 70 
 set diff [0..1]  0,3 
 set kp [0..]  7 
 set ki [0..]  0
 set kd [0..]  0
-calibrate black (dit is voor de kleur zwart te kalibreren.
-calibrate white  (dit is voor de kleur wit te kalibreren.
+calibrate black (dit is voor de kleur zwart te kalibreren)
+calibrate white  (dit is voor de kleur wit te kalibreren)
 
 ### kalibratie (bij elk commando dat je stuurt zou je een antwoord moeten krijgen van de serial bluetooth terminal.)
 uitleg kalibratie
@@ -38,4 +38,5 @@ De robot rijdt stabiel met volgende parameters:Power 70, Diff 0,3, Kp 8, Ki 0, K
 
 ### start/stop button
 uitleg locatie + werking start/stop button
+
 Druk op de drukknop en de auto zal beginnen met rijden, als je nogmaals drukt op de drukknop zal de auto stoppen met rijden. De locatie is zodanig gekozen dat je er redelijk makkelijk aankan.
