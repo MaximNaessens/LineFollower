@@ -24,6 +24,7 @@ wireless communication: HC-05
 distance sensor - motors: 9 cm
 <br />
 weight: zonder batterijen: 181g
+<br />
 weight: met batterijen: 270g
 <br />
 speed: 0,412 m/s
